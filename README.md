@@ -8,6 +8,7 @@
 ## Thanks to 
 ##### [T-Pub :)](http://tphangout.com/ionic-3-leaflet-maps-geolocation-markers/)
 
-## [Leafleat.js official documentation](https://leafletjs.com/)
+## Documentation
+##### [Leafleat.js official documentation](https://leafletjs.com/)
 
 
