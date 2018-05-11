@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Ionic Map
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let place of data.places">
+      <ion-thumbnail item-start>
+        <img src="{{place.url}}">
+      </ion-thumbnail>
+      <h2>{{place.title}}</h2>
+      <p>{{place.description}}</p>
+    </ion-item>
+  </ion-list>
+</ion-content>
+
+  
