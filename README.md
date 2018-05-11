@@ -7,7 +7,7 @@
 
 ## App screenshots
 <div>
-    <img src="https://github.com/nicoladileo/ionic3-leaflet/blob/master/screen1.png">
+    <img src="https://github.com/nicoladileo/ionic3-leaflet/blob/master/screen.PNG">
 </div>
 
 ## Thanks to 
