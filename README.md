@@ -4,10 +4,11 @@
 - Geolocation
 - Adding map to Ionic 3 application
 - Popup and events management
+- Reading GPS permissions on device
 
 ## App screenshots
 <div>
-    <img src="https://github.com/nicoladileo/ionic3-leaflet/blob/master/screen.PNG">
+    <img src="https://github.com/nicoladileo/ionic3-leaflet/blob/master/screennew.PNG">
 </div>
 
 ## Thanks to 
